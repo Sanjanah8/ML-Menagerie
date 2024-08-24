@@ -1,6 +1,5 @@
 # ML-Menagerie
 My Go-To Repository for all my ML projects
-Here's a description for your repository that contains all your machine learning projects, classified by topic:
 
 ---
 
