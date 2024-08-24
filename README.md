@@ -11,7 +11,7 @@ Welcome to **ML Menagerie**—a comprehensive collection of all my machine learn
 
 **Features:**
 
-- **Organized Topics**: Projects are classified based on key machine learning topics, including:
+Projects are classified based on key machine learning topics, including:
 - **Predictive Analytics**: Projects focusing on forecasting and prediction models.
 - **Classification**: Models for categorizing data into predefined classes.
 - **Regression**: Projects involving the prediction of continuous variables.
