@@ -160,4 +160,3 @@
 - **Outliers:** Some models are sensitive to outliers (e.g., Linear Regression), while others are robust (e.g., RANSAC, Huber). Choose accordingly.
 - **Model Complexity:** Start with simple models (Linear Regression) and move to more complex models (Gradient Boosting, XGBoost) as needed.
 
-This README provides a quick guide on when and how to use various regression algorithms. It is designed to help you choose the right model based on the problem characteristics and data.
