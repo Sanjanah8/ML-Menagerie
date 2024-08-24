@@ -1,5 +1,5 @@
 ## **Choosing the Best Exploratory Data Analysis (EDA) Techniques**
----
+
 ### **1. Understanding Your Data**
 
 **Purpose:** Before diving into EDA, it’s crucial to understand your dataset, including the types of variables and their relationships.
